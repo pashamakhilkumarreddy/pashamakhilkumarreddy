@@ -1,15 +1,15 @@
-<h1 align="center">Hola! 👋, I'm Akhil Kumar Reddy Pasham</h1>
+<h1 align="center">Hola! 👋, I'm Akhil Pasham</h1>
 <h3 align="center">A passionate full-stack developer from Australia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pashamakhilkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="pashamakhilkumarreddy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pashamakhilkumarreddy" alt="pashamakhilkumarreddy" /></a> </p>
 
-- 🔭 I’m currently working at [Codvo](https://www.codvo.ai/)
+- 🔭 I’m currently working at [Westpac Group](https://www.westpac.com.au/about-westpac/westpac-group/)
 
 - 🌱 I’m currently learning **Investment Banking, Information Security and Machine Learning**
 
-- 💬 Ask me about **React, Vue, Javascript, Python, FastAPI, Kubernetes**
+- 💬 Ask me about **React, Vue, JavaScript, Python, Golang, FastAPI, Kubernetes**
 
 - 📫 How to reach me **https://flowcv.me/akhilp**
 
